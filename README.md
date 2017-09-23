@@ -1,5 +1,5 @@
 # my-portfolio
-This is my professional portfolio it uses AWS and ReactJS.
+This is a course project that uses AWS and ReactJS.
 
 ## Technologies Used
 
